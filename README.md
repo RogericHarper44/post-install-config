@@ -140,7 +140,8 @@ This tutorial outlines the post-install configuration of the open-source help de
     </ul>
     <li>Go the <b>Access</b> tab to set the Agent's <b>Primary Department</b> (Mandatory to create the Agent). <b>Extended Access</b> can also be added to the Agent in order to access additional Departments</li>
     <ul>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/c57bca22-2622-4f01-88eb-bd699d1f12de" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/23608e19-eda8-4d3d-b0a2-04f3a599f7f7"
+/></li>
     </ul>
     <li>OPTIONAL: Head to the <b>Teams</b> tab to assign the Agent to a Team</li>
   </ul>
