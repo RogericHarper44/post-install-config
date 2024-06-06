@@ -84,7 +84,8 @@ This tutorial outlines the post-install configuration of the open-source help de
     <li>In the Agents tab, click on <b>Teams</b> and click on <b>Add New Team</b></li>
     <ul>
     <li><b>Note</b>: Just like previous set ups, osTicket creates a Team (Level I Support) by default</li>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/5ede2f9c-91d5-4f9b-8199-99e8f0696e5c" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/ef482234-f66f-4ec5-bd9d-3faeb446e5eb"
+/></li>
     </ul>
     <li>Name the Team <b>Level II Support</b> then click on <b>Create Team</b> to create the Team</li>
     <ul>
