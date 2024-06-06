@@ -151,7 +151,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   <ul>
     <li>In the <b>Agent Panel</b>, go to the <b>Users</b> tab and click on <b>Add User</b></li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/f08ec067-3a66-420e-bfaf-6a3003512bcb" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/223ec78c-63ca-4a61-a8f6-922e5909cc5d"
+/></li>
     </ul>
     <li>For this tutorial, we will be creating two new Users <b>Ken</b> and <b>Karen</b> and setting up usernames, emails, and passwords similar to our Agents.</li>
     <ul>
@@ -175,7 +176,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   <ul>
     <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/b2a2f9a0-c6c1-47f1-a46e-8e534731dd1e"
 /></li>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/cf8da66d-209b-40e6-a4f1-c99bbd102b3a" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    
   </ul>
   <li>osTicket by default has the SLA Plan <b>Default SLA</b>. We will be creating three SLA Plans each with their own length of time for different kinds of importance of the ticket, from highest priority to lowest priority:</li>
   <ol>
