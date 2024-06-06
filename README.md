@@ -89,7 +89,8 @@ This tutorial outlines the post-install configuration of the open-source help de
     </ul>
     <li>Name the Team <b>Level II Support</b> then click on <b>Create Team</b> to create the Team</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/b9aa5ab2-2c41-4666-a4f2-6a0f3ff88bc1" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/e4a608c2-478a-49b5-a8e6-618768601afa"
+/></li>
     </ul>
   </ul>
   
