@@ -107,7 +107,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <ul>
   <li>In the <b>Admin Panel</b>, head to the <b>Settings</b> tab and click on <b>Users</b>, make sure <b>Registration Required</b> is unchecked. This will allow us to create tickets anonymously</li>
   <ul>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/97c51388-324a-42e0-a808-067de164c4b6" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/a38f2bc2-b6f1-4bea-9cc4-70938bef4f08"
+/></li>
   </ul>
 </ul>
   
