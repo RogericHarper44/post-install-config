@@ -132,9 +132,11 @@ This tutorial outlines the post-install configuration of the open-source help de
     <li>For this tutorial, we will be creating two new Agents <b>Jane</b> and <b>John</b>, it is advise to have a notepad ready to catalog login information as you enter their credentials, but we will set their user names as <b>[name].doe</b> and both of their passwords as <b>Password1</b> for convenience (which is our admin password from the installation tutorial)</li>
     <ul>
       <li>Fill in the Agent's basic info and set the Agent's email address as <b>[name].doe@osticket.com</b> and click on <b>Set Password</b></li>
-      <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/06fbd1ca-9d97-4f4f-b866-9b304dbdeb57" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/98bbfc4e-6d35-4876-9970-1d07c68c1a63"
+/></li>
       <li>Set the Agent's password to <b>Password1</b> and unchecked the boxes to prevent the Agent for our example from needing to reset password or change password after login</li>
-      <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/51953148-bddc-476c-9368-4b62f4bf3d42" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/f322cb0f-cbc1-46c8-a48c-3830f8a919aa"
+/></li>
     </ul>
     <li>Go the <b>Access</b> tab to set the Agent's <b>Primary Department</b> (Mandatory to create the Agent). <b>Extended Access</b> can also be added to the Agent in order to access additional Departments</li>
     <ul>
