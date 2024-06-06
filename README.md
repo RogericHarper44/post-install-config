@@ -126,7 +126,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   <ul>
     <li>In the <b>Admin Panel</b>, head to the <b>Agents</b> tab and click on <b>Add New Agent</b></li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/d66757f0-54d1-458f-8a2d-4f1890b2da1d" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/1aee6a0d-4727-4375-bc47-6697a9f83fa0"
+/></li>
     </ul>
     <li>For this tutorial, we will be creating two new Agents <b>Jane</b> and <b>John</b>, it is advise to have a notepad ready to catalog login information as you enter their credentials, but we will set their user names as <b>[name].doe</b> and both of their passwords as <b>Password1</b> for convenience (which is our admin password from the installation tutorial)</li>
     <ul>
