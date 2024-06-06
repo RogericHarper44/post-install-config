@@ -204,7 +204,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   <li>In the <b>Admin Panel</b>, go to the <b>Manage</b> tab and click on <b>Add New Help Topic</b></li>
   <ul>
     <li><b>Note</b>: osTicket creates four Help Topics (Feedback, General Inquiry, Report a Problem, and Report a Problem / Access Issue) by default</li>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/27299450-a705-462c-a7d0-6fcdac6f5a59" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/93bc5325-1984-41d7-9e35-bf75bac9361a"
+/></li>
   </ul>
   <li>We will create four different Help Topics based on the potential serverity a ticket could have, from highest to lowest priority:</li>
   <ol>
@@ -215,7 +216,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   </ol>
   <li>Example of entering credentials for the Help Topic "Equipment Request," click on <b>Add Topic</b> to create the Help Topic</li>
   <ul>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/97777c9e-516c-4831-891b-9d65e9613ed0" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/68627f0e-7180-41b4-a2cf-1a4890e5ecdc"
+/></li>
   </ul>
   
 </ul>
