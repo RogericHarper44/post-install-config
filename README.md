@@ -69,11 +69,13 @@ This tutorial outlines the post-install configuration of the open-source help de
   <li>Still on the Agents tab, click on <b>Departments</b> and click on <b>Add New Department</b></li>
   <ul>
     <li><b>Note</b>: Much like Roles, osTicket also creates two Departments (Maintenance and Support) by default</li>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/2a449d47-9632-47ee-9606-65512e292a2e" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/b5fdd35e-3d88-4cf7-93c3-b759cfc9a4b4"
+/></li>
   </ul>
   <li>Name the Department <b>System Administrators</b> (we'll leave everything else by default for now), then click on <b>Create Dept</b> to create Department</li>
   <ul>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/700f78be-2640-4f34-85d6-0ab8ff6ae994" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/f65468e3-ecdc-4e6d-831f-4e1ed1d7a89f"
+/></li>
   </ul>
   </ul>
 
