@@ -186,7 +186,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   </ol>
   <li>Example of creating SEV-A SLA Plan, click on <b>Add Plan</b> to create the SLA Plan</li>
   <ul>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/ee7d6fbb-f67a-4055-aa9b-b9fd77d48de1" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/c97b89a2-2309-4687-842c-8f4eb0aa8c9f"
+/></li>
   </ul>
 </ul>
   
