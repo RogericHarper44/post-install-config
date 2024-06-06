@@ -47,15 +47,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <ul>
   <li><b>Note</b>: There are two panels when navigating osTicket; <b>Agent Panel</b> and <b>Admin Panel</b>, you'll know which panel you are on if the <b>opposite panel</b> is displayed on the top right of the UI next to your user login name</li>
   <ul>
-    <li>In this example, the user "josh" is on the Agent Panel</li>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/6abb22de-3ec5-47a9-8efd-46caf9d1622f" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li>In this example, the user "Rogeric" is on the Agent Panel</li>
+    <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/1a2a7417-c09f-4446-b5c6-cbf67a3b5c1d"
+"Disk Sanitization Steps"/></li>
   </ul>
   <li><b>Roles</b> grant certain permisions to Agents in an Department they are assigned to</li>
   <ul>
     <li>In the <b>Admin Panel</b>, go to the <b>Agents</b> tab and click on <b>Roles</b>, then click on <b>Add New Role</b></li>
     <ul>
       <li><b>Note</b>: osTickets creates four Roles (All Access, Expanded Access, Limited Access, and View Only) by default.</li>
-      <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/6347ce31-f5f1-4078-b738-dc70dd037df6" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/post-install-config/assets/168601987/e9f8fd39-bad5-46ad-a46d-6b5f14b4e502"/></li>
     </ul>
     <li>Name the new Role <b>Supreme Admin</b>, and click on the <b>Permissions</b> tab; in this tab you can assign specific permissions to this role. For our "Supreme Admin" Role, we will check every box under the <b>Tickets</b>, <b>Tasks</b>, and <b>Knowledgebase</b> tabs. Click on <b>Add Role</b> to finish and create the role.</li>
     <ul>
